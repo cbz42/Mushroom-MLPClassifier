@@ -3,3 +3,10 @@
 this detect mushroom in image
 ###
 FinalTraining.csv is train data.
+
+### library
+1)pip install scikit-image
+
+2)pip install numpy
+
+3)pip install opencv-python
